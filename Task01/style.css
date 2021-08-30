@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+body {
+	font-family: sans-serif;
+}
+h1 {
+	font-size: 21px;
+}
+h2 {
+	font-size: 18px;
+}
+p {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+h3 {
+	font-size: 16px;
+}
+h4 {
+	font-size: 16px;
+}
+
+
+
+
+
+
+.job {
+	padding: 14px;
+	border: 1px solid #095cdc;
+}
+.rec {
+	padding: 14px;
+	border: 1px solid #095cbc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
